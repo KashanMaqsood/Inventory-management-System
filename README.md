@@ -33,3 +33,5 @@ Advantages:
 7. Reusability: The code can be easily modified and extended to accommodate additional features or requirements.
 
 Overall, the code demonstrates a solid understanding of C++ concepts and provides a practical solution for managing inventory.
+
+Linkedin : https://www.linkedin.com/posts/kashan-maqsood-aa32b62ba_basic-programming-artificial-activity-7233432127327854592-I7Y6?utm_source=share&utm_medium=member_desktop
