@@ -1,5 +1,5 @@
 # Inventory-management-System
-I have made the solo project on Inventory management System that alows the user to add, display, update ,search, delete, save to file and load from file the invenatry like guns, rifles and pistols. It will help the user to monitor the inventary and their quantity and price. The code includes the basic concepts of c++ language.
+I have made the solo project on Inventory management System that allows the user to add, display, update ,search, delete, save to file and load from file the invenotry like guns, rifles and pistols. It will help the user to monitor the inventory and their quantity and price. The code includes the basic concepts of c++ language.
 C++ Concepts Included:
 
 1. Structs: The code uses a struct to represent a product, which is a collection of variables of different data types.
